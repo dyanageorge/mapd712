@@ -1,0 +1,308 @@
+[
+    {
+        "outputFile": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 58,
+                        "endColumn": 37,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 45,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 45,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 51,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endLine": 12,
+                    "endColumn": 9,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 58,
+                        "endColumn": 37,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 45,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 45,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 51,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endLine": 12,
+                    "endColumn": 9,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 40,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 58,
+                        "endColumn": 37,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 45,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 45,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 51,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endLine": 12,
+                    "endColumn": 9,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Sep 19 11:08:03 EDT 2017
+1.base=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\speed.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\resources-debug.ap_

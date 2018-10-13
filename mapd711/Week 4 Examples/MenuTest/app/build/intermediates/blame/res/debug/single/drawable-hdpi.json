@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Akshu\\AndroidStudioProjects\\MenuTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

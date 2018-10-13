@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cinnabar">#F6412D</color>
+    <color name="mysticRed">#FF5607</color>
+    <color name="vividGambage">#FF9800</color>
+    <color name="amber">#FFC100</color>
+    <color name="vividYellow">#FFEC19</color>
+</resources>

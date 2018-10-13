@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="107dp"
+        android:layout_height="44dp"
+        android:textSize="20sp"
+        android:text="@string/full_name_text" />
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/full_name_eg"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/tv_qualif"
+        android:layout_width="107dp"
+        android:layout_height="44dp"
+        android:textSize="20sp"
+        android:text="@string/qulif_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="95dp" />
+
+    <EditText
+        android:id="@+id/et_qualif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/qulif_text"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="95dp" />
+
+    <TextView
+        android:id="@+id/tv_profession"
+        android:layout_width="107dp"
+        android:layout_height="44dp"
+        android:textSize="20sp"
+        android:text="@string/profess_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="179dp" />
+
+    <EditText
+        android:id="@+id/et_profession"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/profess_eg"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="179dp" />
+
+    <TextView
+        android:id="@+id/tv_hobby"
+        android:layout_width="107dp"
+        android:layout_height="44dp"
+        android:textSize="20sp"
+        android:text="@string/hobby_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="258dp" />
+
+    <EditText
+        android:id="@+id/et_hobby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/hobby_eg"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="258dp" />
+
+    <TextView
+        android:id="@+id/tv_dream"
+        android:layout_width="107dp"
+        android:layout_height="44dp"
+        android:textSize="20dp"
+        android:text="@string/dream_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="336dp" />
+
+    <EditText
+        android:id="@+id/et_dream"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/dream_eg"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="336dp" />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="@string/sendbtn"
+        android:onClick="sendmessage"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="420dp" />
+
+</RelativeLayout>

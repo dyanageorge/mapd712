@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OnlinePizza</string>
+    <string name="welcome">Welcome to Marios</string>
+    <string name="compName">Marios Pizzera </string>
+    <string name="menu">MENU </string>
+    <string name="coupon">COUPON</string>
+    <string name="cart">CART</string>
+    <string name="pizza">PIZZA</string>
+    <string name="pizzasize">PIZZA SIZE</string>
+    <string name="pizzatopping">PIZZA TOPPING</string>
+    <string name="pizzaType1">Speciality Pizza</string>
+    <string name="pizzaspec1">Meat Supreme</string>
+    <string name="pizzaspec2">Super Hawaiian</string>
+    <string name="pizzaspec3">Veggie</string>
+    <string name="pizzaspec4">Mediterranean</string>
+    <string name="pizzaspec5">Cheddar Supreme</string>
+    <string name="pizzasize1">Small</string>
+    <string name="pizzasize2">Medium</string>
+    <string name="pizzasize3">Large</string>
+    <string name="pizzasize4">Extra Large</string>
+    <string name="cusInfo">Customer Information</string>
+    <string name="cusFirstName">First Name:</string>
+    <string name="cusLastName">Last Name:</string>
+    <string name="cusAddress">Address Line 1:</string>
+    <string name="cusAddress2">Address Line 2:</string>
+    <string name="cuspostal">Postal Code:</string>
+    <string name="cusNumber">Contact Number:</string>
+    <string name="cusEmail">Email:</string>
+</resources>

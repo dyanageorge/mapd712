@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pizzaSize">
+
+    <TextView
+        android:id="@+id/headertv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/mysticRed"
+        android:text="@string/pizzasize"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RadioGroup
+        android:id="@+id/pizzaRadioGroup"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/rb_pizzasize1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pizzasize1" />
+
+                <ImageView
+                    android:id="@+id/iv_small"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:layout_toRightOf="@id/rb_pizzasize1"
+                    android:src="@drawable/meatsupreme" />
+
+                <RadioButton
+                    android:id="@+id/rb_pizzasize2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pizzasize2" />
+
+                <ImageView
+                    android:id="@+id/iv_med"
+                    android:layout_width="match_parent"
+                    android:layout_height="72dp"
+                    android:layout_toRightOf="@id/rb_pizzasize2"
+                    android:src="@drawable/superhawaiian" />
+
+                <RadioButton
+                    android:id="@+id/rb_large"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pizzasize3" />
+
+                <ImageView
+                    android:id="@+id/iv_large"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:layout_toRightOf="@id/rb_pizzasize2"
+                    android:src="@drawable/veggie" />
+
+                <RadioButton
+                    android:id="@+id/rb_pizzasize4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pizzasize4" />
+
+                <ImageView
+                    android:id="@+id/iv_xlarge"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:layout_toRightOf="@id/rb_pizzasize4"
+                    android:src="@drawable/mediterranean" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </RadioGroup>
+</android.support.constraint.ConstraintLayout>

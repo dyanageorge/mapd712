@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App One</string>
+    <string name="full_name_text">Full Name:</string>
+    <string name="full_name_eg">eg John Doe</string>
+    <string name="qulif_text">Qualification:</string>
+    <string name="qualif_eg">eg BS in CS</string>
+    <string name="profess_text">Profession:</string>
+    <string name="profess_eg">eg Quality Assurance</string>
+    <string name="hobby_text">Hobby:</string>
+    <string name="hobby_eg">eg Playing Golf</string>
+    <string name="dream_text">Dream Job:</string>
+    <string name="dream_eg">eg Mobile Development</string>
+    <string name="sendbtn">Send</string>
+</resources>
